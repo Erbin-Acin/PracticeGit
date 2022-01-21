@@ -6,7 +6,7 @@
 	</div>
 	<div class="d-flex pb-3 justify-content-end">
 		<div id="filters">
-			<button type="button" class="btn btn-primary onsale-filter">On Sale</button>
+			<button type="button" class="btn btn-primary onsale-filter">On Sales</button>
 			<button type="button" class="btn btn-primary expiring-filter">Expiring</button>
 		</div>
 	</div>
