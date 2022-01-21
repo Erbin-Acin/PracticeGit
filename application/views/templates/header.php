@@ -18,7 +18,7 @@
 <body class="h-100">
     <header class="navbar bg-header-footer p-1 w-100 sticky-top">
         <div class="container-fluid">
-            <h3 class="navbar-brand text-light">Code Practice <i class="fas fa-laptop-code"></i></h3>
+            <h3 class="navbar-brand text-light">Code&nbsp;Practice&nbsp;<i class="fas fa-laptop-code"></i></h3>
         </div>
     </header>
     <main class="pb-5">
