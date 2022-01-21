@@ -12,7 +12,7 @@
     <script src="<?php echo base_url(); ?>assets/js/weatherAPI.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/deals.js"></script>
     <script src="<?php echo base_url(); ?>assets/js/main.js"></script>
-    <title>Learning...</title>
+    <title>Daily Journey</title>
 </head>
 
 <body class="h-100">
