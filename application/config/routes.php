@@ -40,6 +40,7 @@
 
 // $route['dealsController/(:any)'] = 'dealsController/$1';
 // $route['dealsController'] = 'dealsController';
+// $route['(:any)'] = 'pages/view/$1';
 $route['default_controller'] = 'pages/view';
 
 
