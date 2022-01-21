@@ -11,10 +11,8 @@
 		</div>
 	</div>
 	<div id="dealsDiv" class="row d-flex justify-content-around">
-		
 	</div>
 	<div id="dealsDescriptionDiv" class="row d-flex justify-content-center offers" style="display: none!important; margin-top: 2rem;">
-		<hr>
-		
+		</hr>
 	</div>
 </div>
