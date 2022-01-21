@@ -22,7 +22,7 @@
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'https://erbin-acin.github.io/PracticeGit/';
+$config['base_url'] = 'localhost/PracticeGit/';
 
 /*
 |--------------------------------------------------------------------------
