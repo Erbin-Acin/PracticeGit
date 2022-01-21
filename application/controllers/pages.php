@@ -18,7 +18,7 @@ class Pages extends CI_Controller
 	 * map to /index.php/welcome/<method_name>
 	 * @see http://codeigniter.com/user_guide/general/urls.html
 	 */
-	public function view($page = 'index')
+	public function index($page = 'index')
 	{
 		if (!file_exists(APPPATH . '/views/pages/' . $page . '.php')) {
 			// Whoops, we don't have a page for that!
