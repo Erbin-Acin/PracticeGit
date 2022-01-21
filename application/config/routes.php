@@ -38,9 +38,13 @@
 |
 */
 
+$route['(:any)/(:any)'] = '$1/$2';
+// $route['weatherController/(:any)'] = 'weatherController/$1';
 // $route['dealsController/(:any)'] = 'dealsController/$1';
-// $route['dealsController'] = 'dealsController';
-$route['default_controller'] = 'pages/view';
+$route['(:any)'] = 'pages/index/$1';
+$route['default_controller'] = 'pages';
+$route['translate_uri_dashes'] = FALSE;
+$route['404_override'] = '';
 
 
 /* End of file routes.php */
