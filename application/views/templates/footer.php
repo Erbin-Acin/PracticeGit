@@ -6,7 +6,7 @@
 
   <footer class="footer p-3 w-100 bg-header-footer" style="position: fixed; bottom: 0;">
       <div class="container">
-          <span class="text-light d-block text-center">ACIN Group&reg;&nbsp;1996-2022</span>
+          <span class="text-light d-block text-center">ACIN&nbsp;Group&reg;&nbsp;1996-2022</span>
       </div>
   </footer>
 
